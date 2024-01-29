@@ -1,5 +1,7 @@
 # Fictive Frames: Text-to-Image Generation
 
+* NOTE * : Our project is still under work. Will update the codebase soon.
+
 ## Overview
 This repository hosts the code for our IPD project, Fictive Frames, focused on text-to-image generation. Our goal is to develop an efficient model that translates textual descriptions into visually compelling images.
 
